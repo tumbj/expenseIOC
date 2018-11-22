@@ -3,7 +3,7 @@
     
 Feature: Expense
     As a user
-    I  add  expense to account
+    I  add  expense to expenseList
     so that I can view balance
 
 Scenario: Normal Expense

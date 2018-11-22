@@ -3,7 +3,7 @@
     
 Feature: Income
     As a user
-    I  add income to account
+    I  add income to expenseList
     so that I can view balance
     
 

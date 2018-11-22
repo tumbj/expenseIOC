@@ -1,13 +1,13 @@
 package tum.ku.Model;//package tum.tum.ku.Model;
 //
-//import tum.tum.ku.Model.Account;
+//import tum.tum.ku.Model.ExpenseList;
 //
 //
 //import java.io.*;
 //
 //public class AccountSimulatorUI {
 //    public static void main(String[] args) {
-//        Account myAcc = new Account();
+//        ExpenseList myAcc = new ExpenseList();
 //
 ////
 ////        myAcc.income(100,"Mother give");

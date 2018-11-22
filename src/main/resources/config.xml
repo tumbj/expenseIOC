@@ -6,9 +6,8 @@
         http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="account" class="tum.ku.Model.Account">
-        <!--<property name = "moneyIncome" value="100"/>-->
-        <!--<property name = "explainIncome" value="Mom give"/>-->
+    <bean id="expenseList" class="tum.ku.Model.ExpenseList">
+
     </bean>
 
 </beans>

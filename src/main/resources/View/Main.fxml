@@ -6,10 +6,9 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane prefHeight="499.0" prefWidth="490.0" xmlns="http://javafx.com/javafx/8.0.181" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tum.ku.Controller.MainController">
+<AnchorPane prefHeight="499.0" prefWidth="490.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tum.ku.Controller.MainController">
    <children>
-      <Button fx:id="saveBtn" layoutX="123.0" layoutY="454.0" mnemonicParsing="false" onAction="#actionSaveBtn" prefHeight="27.0" prefWidth="68.0" text="SAVE" />
+      <Button fx:id="saveBtn" layoutX="132.0" layoutY="454.0" mnemonicParsing="false" onAction="#actionSaveBtn" prefHeight="27.0" prefWidth="68.0" text="SAVE" />
       <Label layoutX="157.0" layoutY="14.0" prefHeight="76.0" prefWidth="175.0" text="Expense">
          <font>
             <Font size="46.0" />
