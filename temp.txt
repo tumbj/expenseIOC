@@ -3,3 +3,7 @@
 500.0: dad give
 -45.0: buy water
 100.0: mom
+money: 100.0 explain: mom give
+money: 250.0 explain: father give
+money: 100.0 explain: brother give
+money: 100.0 explain: buy rice

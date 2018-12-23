@@ -36,6 +36,9 @@ public class ExpenseList {
         }
         return tmp;
     }
+    public ArrayList<Expense> getBalanceList(){
+        return expenses;
+    }
 
 
 
